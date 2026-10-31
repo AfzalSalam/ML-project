@@ -49,7 +49,7 @@ python src/predict.py --model svm_rbf --n 10
 After training, scores land in `results/ml_scores.json` and `results/dl_scores.json`, with confusion matrices in `results/`.
 
 ## Author
-**Jatin Maggo** — B.Tech Engineering Physics, DTU
+**Mohammed Afzal** — B.Tech Engineering Physics, DTU
 [Portfolio](https://jatinmaggo.vercel.app) · [GitHub](https://github.com/QuantumWebber)
 
 ## License
